@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(conda info --base 2>&1)",
+      "PowerShell(conda env list 2>&1)",
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\mamdiop\\\\AppData\\\\Local\" -Directory | Where-Object { $_.Name -match \"conda|python\" })",
+      "PowerShell($pip = \"C:\\\\Users\\\\mamdiop\\\\AppData\\\\Local\\\\anaconda3\\\\Scripts\\\\pip.exe\"; & $pip install pandas numpy scipy scikit-learn joblib openpyxl -q 2>&1 | Select-Object -Last 5)",
+      "WebFetch(domain:www.fifa.com)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "WebSearch",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:www.espn.com)",
+      "WebFetch(domain:inside.fifa.com)",
+      "WebFetch(domain:www.sofascore.com)",
+      "WebFetch(domain:thesoccerera.com)",
+      "WebFetch(domain:www.cbssports.com)",
+      "WebFetch(domain:www.aljazeera.com)",
+      "WebFetch(domain:www.skysports.com)",
+      "WebFetch(domain:sports.yahoo.com)",
+      "WebFetch(domain:footiqo.com)",
+      "WebFetch(domain:www.rotowire.com)",
+      "WebFetch(domain:fdp.fifa.org)",
+      "WebFetch(domain:www.football365.com)",
+      "WebFetch(domain:www.transfermarkt.com)",
+      "WebFetch(domain:en.m.wikipedia.org)",
+      "WebFetch(domain:www.bbc.com)",
+      "WebFetch(domain:football-ranking.com)",
+      "WebFetch(domain:www.whereig.com)"
+    ]
+  }
+}

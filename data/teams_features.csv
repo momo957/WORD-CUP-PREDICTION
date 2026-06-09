@@ -1,0 +1,49 @@
+team,confederation,fifa_rank,elo_rating,wc_participations,best_wc_result,players_top5_leagues,avg_goals_scored,avg_goals_conceded,recent_goal_diff,win_pct_last10,draw_pct_last10,loss_pct_last10,clean_sheets_last10,win_pct_vs_top20,continental_titles,last_wc_stage,coach_name,coach_years,is_host,avg_age_squad
+France,UEFA,1,1877.32,16,Winner,24,2.8,1.0,1.8,0.7,0.2,0.1,4,0.45,2,Runner_up,Didier Deschamps,13.9,0,26.58
+Spain,UEFA,2,1876.4,16,Winner,26,3.5,0.5,3.0,0.8,0.2,0.0,5,0.5,4,R16,Luis de la Fuente,3.5,0,26.19
+Argentina,CONMEBOL,3,1874.81,18,Winner,20,2.8,0.9,1.9,0.7,0.1,0.2,4,0.45,16,Winner,Lionel Scaloni,7.8,0,28.62
+England,UEFA,4,1825.97,16,Winner,25,3.0,0.4,2.6,0.8,0.1,0.1,7,0.42,0,QF,Thomas Tuchel,1.5,0,26.62
+Portugal,UEFA,5,1763.83,9,3rd_place,17,3.6,0.7,2.9,0.8,0.1,0.1,5,0.38,1,QF,Roberto Martinez,3.4,0,27.54
+Brazil,CONMEBOL,6,1761.16,22,Winner,14,1.9,1.2,0.7,0.4,0.4,0.2,2,0.38,9,QF,Carlo Ancelotti,1.0,0,28.65
+Netherlands,UEFA,7,1757.87,11,Runner_up,22,2.8,1.2,1.6,0.6,0.2,0.2,3,0.4,1,QF,Ronald Koeman,3.5,0,27.27
+Morocco,CAF,8,1755.87,7,SF,15,3.2,0.7,2.5,0.8,0.1,0.1,5,0.28,2,4th,Mohamed Ouahbi,0.2,0,25.92
+Belgium,UEFA,9,1734.71,14,3rd_place,20,2.7,1.1,1.6,0.5,0.3,0.2,2,0.38,0,Group_Stage,Rudi Garcia,1.4,0,27.12
+Germany,UEFA,10,1730.37,20,Winner,25,3.3,1.2,2.1,0.6,0.2,0.2,3,0.38,3,Group_Stage,Julian Nagelsmann,2.7,0,27.54
+Croatia,UEFA,11,1717.07,9,3rd_place,17,2.6,0.9,1.7,0.7,0.1,0.2,4,0.33,0,3rd_place,Zlatko Dalic,8.6,0,27.88
+Colombia,CONMEBOL,13,1693.09,7,QF,8,2.5,2.1,0.4,0.5,0.2,0.3,1,0.28,1,R16,Nestor Lorenzo,4.0,0,29.58
+Senegal,CAF,14,1688.99,5,QF,20,1.7,0.9,0.8,0.6,0.2,0.2,3,0.22,1,R16,Pape Thiaw,0.5,0,26.62
+Mexico,CONCACAF,15,1681.03,17,QF,5,2.7,0.9,1.8,0.8,0.1,0.1,4,0.22,10,Group_Stage,Javier Aguirre,1.9,1,27.5
+United_States,CONCACAF,16,1673.13,11,SF,13,2.4,1.3,1.1,0.6,0.1,0.3,3,0.25,7,R16,Mauricio Pochettino,1.7,1,26.42
+Uruguay,CONMEBOL,17,1673.07,14,Winner,8,1.8,1.2,0.6,0.5,0.3,0.2,2,0.28,15,Group_Stage,Marcelo Bielsa,3.1,0,28.19
+Japan,AFC,18,1660.43,9,R16,13,3.3,0.8,2.5,0.7,0.2,0.1,4,0.2,4,R16,Hajime Moriyasu,7.9,0,27.19
+Switzerland,UEFA,19,1649.4,12,QF,23,2.8,0.5,2.3,0.7,0.2,0.1,5,0.28,0,R16,Murat Yakin,4.8,0,27.81
+Iran,AFC,21,1615.3,6,Group_Stage,0,2.0,1.6,0.4,0.5,0.2,0.3,2,0.12,3,Group_Stage,Amir Ghalenoei,3.2,0,29.81
+Turkey,UEFA,22,1599.04,3,3rd_place,9,3.4,1.3,2.1,0.6,0.2,0.2,3,0.18,0,3rd_place,Vincenzo Montella,2.7,0,27.23
+Ecuador,CONMEBOL,23,1594.78,4,QF,6,1.5,1.2,0.3,0.5,0.3,0.2,2,0.18,0,Group_Stage,Sebastian Beccacece,1.8,0,25.58
+Austria,UEFA,24,1593.45,8,3rd_place,16,2.8,0.8,2.0,0.7,0.1,0.2,4,0.22,0,Group_Stage,Ralf Rangnick,4.1,0,28.12
+South_Korea,AFC,25,1588.66,11,SF,5,2.0,1.0,1.0,0.5,0.4,0.1,2,0.18,2,R16,Hong Myung-bo,1.9,0,27.46
+Australia,AFC,27,1580.67,6,R16,5,2.3,1.4,0.9,0.6,0.1,0.3,3,0.18,1,R16,Tony Popovic,1.7,0,26.88
+Algeria,CAF,28,1564.26,4,R16,11,2.5,0.7,1.8,0.7,0.2,0.1,3,0.18,2,R16,Vladimir Petkovic,2.3,0,26.46
+Egypt,CAF,29,1563.24,3,Group_Stage,5,2.1,0.8,1.3,0.7,0.1,0.2,4,0.18,7,Group_Stage,Hossam Hassan,2.3,0,28.69
+Canada,CONCACAF,30,1556.48,3,Group_Stage,6,1.8,1.8,0.0,0.4,0.2,0.4,2,0.18,1,Group_Stage,Jesse Marsch,2.1,1,26.42
+Norway,UEFA,31,1550.94,3,QF,17,3.4,0.8,2.6,0.8,0.1,0.1,5,0.22,0,Group_Stage,Stale Solbakken,5.5,0,26.35
+Panama,CONCACAF,33,1540.64,2,Group_Stage,0,1.9,1.4,0.5,0.5,0.2,0.3,2,0.08,0,Group_Stage,Thomas Christiansen,5.9,0,30.0
+Ivory_Coast,CAF,34,1532.98,5,QF,12,2.8,0.9,1.9,0.7,0.2,0.1,4,0.18,3,Group_Stage,Emerse Fae,2.3,0,25.35
+Sweden,UEFA,38,1514.77,12,Runner_up,14,1.9,2.0,-0.1,0.4,0.2,0.4,2,0.22,0,QF,Jon Dahl Tomasson,2.3,0,27.0
+Paraguay,CONMEBOL,40,1503.5,9,QF,4,1.3,1.4,-0.1,0.4,0.3,0.3,2,0.12,2,QF,Gustavo Alfaro,1.8,0,28.54
+Czech_Republic,UEFA,41,1501.38,10,Runner_up,7,2.4,1.4,1.0,0.5,0.4,0.1,1,0.18,0,Group_Stage,Miroslav Koubek,0.5,0,27.23
+Scotland,UEFA,43,1498.35,8,Group_Stage,11,2.0,1.5,0.5,0.5,0.2,0.3,2,0.18,0,Group_Stage,Steve Clarke,7.0,0,28.73
+DR_Congo,CAF,46,1478.35,4,Group_Stage,10,1.9,1.2,0.7,0.6,0.1,0.3,3,0.12,2,Group_Stage,Sebastien Desabre,3.8,0,28.5
+Tunisia,CAF,44,1483.05,6,R16,7,2.1,0.2,1.9,0.8,0.1,0.1,7,0.12,1,Group_Stage,Sabri Lamouchi,0.4,0,26.15
+Uzbekistan,AFC,50,1465.34,1,Never,1,2.1,0.7,1.4,0.6,0.3,0.1,3,0.08,0,Never,Timur Kapadze,1.4,0,27.96
+Qatar,AFC,55,1454.96,2,Group_Stage,0,2.1,1.9,0.2,0.4,0.2,0.4,2,0.08,2,Group_Stage,Julen Lopetegui,1.1,0,28.92
+Iraq,AFC,57,1447.14,6,Group_Stage,0,1.5,1.2,0.3,0.5,0.3,0.2,2,0.1,4,Group_Stage,Graham Arnold,1.1,0,26.65
+South_Africa,CAF,60,1429.73,4,Group_Stage,1,1.5,1.2,0.3,0.4,0.2,0.4,3,0.08,1,Group_Stage,Hugo Broos,5.1,0,26.35
+Saudi_Arabia,AFC,61,1421.43,7,R16,1,1.0,1.5,-0.5,0.3,0.3,0.4,2,0.1,3,Group_Stage,Georgios Donis,0.1,0,27.96
+Jordan,AFC,63,1391.45,1,Never,1,1.6,1.4,0.2,0.5,0.2,0.3,2,0.08,0,Never,Jamal Sellami,2.0,0,28.08
+Bosnia_Herzegovina,UEFA,65,1385.84,2,Group_Stage,6,1.9,1.5,0.4,0.5,0.3,0.2,2,0.12,0,Group_Stage,Sergej Barbarez,2.1,0,25.92
+Cape_Verde,CAF,69,1366.13,2,Never,1,1.8,1.0,0.8,0.6,0.2,0.2,3,0.08,0,Never,Bubista,6.4,0,29.23
+Ghana,CAF,74,1346.31,4,QF,12,1.6,1.3,0.3,0.5,0.2,0.3,2,0.1,4,Group_Stage,Carlos Queiroz,0.2,0,26.42
+Haiti,CONCACAF,83,1291.71,4,Group_Stage,4,1.5,1.8,-0.3,0.4,0.2,0.4,2,0.05,0,Group_Stage,Sebastien Migne,2.2,0,27.08
+Curacao,CONCACAF,82,1294.65,1,Never,0,1.6,1.6,0.0,0.4,0.3,0.3,2,0.05,0,Never,Dick Advocaat,0.1,0,27.54
+New_Zealand,OFC,85,1281.57,3,Group_Stage,1,4.5,1.1,3.4,0.8,0.0,0.2,6,0.05,6,Group_Stage,Darren Bazeley,3.0,0,27.62
